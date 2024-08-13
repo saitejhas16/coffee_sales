@@ -1,0 +1,207 @@
+date,time,cash_type,money,coffee_name
+2024-03-01,10:15 AM,card,38.7,Latte
+2024-03-01,12:19 PM,card,38.7,Hot Chocolate
+2024-03-01,12:20 PM,card,38.7,Hot Chocolate
+2024-03-01,01:46 PM,card,28.9,Americano
+2024-03-01,01:48 PM,card,38.7,Latte
+2024-03-01,03:39 PM,card,33.8,Americano with Milk
+2024-03-01,04:19 PM,card,38.7,Hot Chocolate
+2024-03-01,06:39 PM,card,33.8,Americano with Milk
+2024-03-01,07:22 PM,card,38.7,Cocoa
+2024-03-01,07:23 PM,card,33.8,Americano with Milk
+2024-03-01,07:29 PM,card,33.8,Americano with Milk
+2024-03-02,10:22 AM,card,28.9,Americano
+2024-03-02,10:30 AM,cash,40.0,Latte
+2024-03-02,10:41 AM,card,33.8,Americano with Milk
+2024-03-02,11:59 AM,card,33.8,Americano with Milk
+2024-03-02,02:38 PM,card,28.9,Americano
+2024-03-02,04:37 PM,card,33.8,Americano with Milk
+2024-03-02,05:34 PM,card,28.9,Americano
+2024-03-03,10:10 AM,cash,40.0,Latte
+2024-03-03,10:27 AM,card,38.7,Latte
+2024-03-03,11:33 AM,card,28.9,Cortado
+2024-03-03,12:26 PM,card,28.9,Americano
+2024-03-03,01:09 PM,card,38.7,Hot Chocolate
+2024-03-03,05:06 PM,card,38.7,Cocoa
+2024-03-03,05:08 PM,card,28.9,Cortado
+2024-03-03,06:03 PM,card,33.8,Americano with Milk
+2024-03-03,06:04 PM,card,33.8,Americano with Milk
+2024-03-03,06:08 PM,card,38.7,Hot Chocolate
+2024-03-04,10:03 AM,card,38.7,Latte
+2024-03-04,10:54 AM,card,38.7,Latte
+2024-03-04,11:05 AM,card,33.8,Americano with Milk
+2024-03-04,02:04 PM,card,24.0,Espresso
+2024-03-05,09:59 AM,card,38.7,Latte
+2024-03-05,02:34 PM,card,38.7,Latte
+2024-03-05,05:34 PM,card,38.7,Latte
+2024-03-05,05:35 PM,card,38.7,Hot Chocolate
+2024-03-05,05:36 PM,card,38.7,Cocoa
+2024-03-05,05:37 PM,card,38.7,Hot Chocolate
+2024-03-05,05:38 PM,card,38.7,Hot Chocolate
+2024-03-05,05:56 PM,card,28.9,Cortado
+2024-03-05,06:01 PM,card,38.7,Hot Chocolate
+2024-03-06,12:30 PM,cash,35.0,Americano with Milk
+2024-03-06,01:24 PM,card,28.9,Americano
+2024-03-06,01:25 PM,card,28.9,Cortado
+2024-03-06,02:52 PM,card,38.7,Cappuccino
+2024-03-06,02:53 PM,card,38.7,Cappuccino
+2024-03-07,10:08 AM,cash,40.0,Latte
+2024-03-07,10:18 AM,card,38.7,Hot Chocolate
+2024-03-07,11:03 AM,card,38.7,Latte
+2024-03-07,11:25 AM,cash,40.0,Latte
+2024-03-07,03:40 PM,card,28.9,Americano
+2024-03-07,03:41 PM,card,33.8,Americano with Milk
+2024-03-08,10:34 AM,card,28.9,Cortado
+2024-03-08,12:22 PM,card,38.7,Cappuccino
+2024-03-08,01:53 PM,card,28.9,Americano
+2024-03-08,02:44 PM,card,28.9,Americano
+2024-03-08,02:45 PM,card,28.9,Americano
+2024-03-08,02:46 PM,card,33.8,Americano with Milk
+2024-03-08,06:57 PM,card,38.7,Latte
+2024-03-08,06:59 PM,card,38.7,Latte
+2024-03-09,11:49 AM,cash,40.0,Hot Chocolate
+2024-03-09,12:05 PM,card,24.0,Espresso
+2024-03-09,12:07 PM,card,28.9,Americano
+2024-03-09,12:09 PM,card,38.7,Cappuccino
+2024-03-09,12:13 PM,card,28.9,Americano
+2024-03-09,12:14 PM,card,28.9,Americano
+2024-03-09,01:09 PM,card,38.7,Latte
+2024-03-09,01:41 PM,card,33.8,Americano with Milk
+2024-03-09,01:53 PM,card,28.9,Cortado
+2024-03-09,01:54 PM,card,38.7,Cappuccino
+2024-03-09,02:08 PM,card,33.8,Americano with Milk
+2024-03-09,02:26 PM,card,38.7,Hot Chocolate
+2024-03-09,07:17 PM,card,38.7,Cappuccino
+2024-03-09,07:19 PM,card,38.7,Hot Chocolate
+2024-03-10,07:44 AM,cash,30.0,Americano
+2024-03-10,07:45 AM,cash,35.0,Americano with Milk
+2024-03-10,10:06 AM,cash,40.0,Latte
+2024-03-10,11:19 AM,card,24.0,Espresso
+2024-03-10,05:51 PM,cash,35.0,Americano with Milk
+2024-03-10,07:34 PM,card,38.7,Latte
+2024-03-10,07:35 PM,card,28.9,Cortado
+2024-03-11,10:18 AM,cash,40.0,Latte
+2024-03-11,11:24 AM,cash,40.0,Cappuccino
+2024-03-11,11:24 AM,cash,30.0,Cortado
+2024-03-11,11:26 AM,cash,30.0,Americano
+2024-03-11,11:32 AM,card,38.7,Cappuccino
+2024-03-11,04:24 PM,card,28.9,Americano
+2024-03-11,04:25 PM,card,38.7,Latte
+2024-03-11,04:50 PM,card,28.9,Cortado
+2024-03-12,10:15 AM,cash,40.0,Latte
+2024-03-12,10:15 AM,card,28.9,Americano
+2024-03-12,10:16 AM,card,28.9,Cortado
+2024-03-12,11:20 AM,card,38.7,Hot Chocolate
+2024-03-12,12:46 PM,card,33.8,Americano with Milk
+2024-03-12,12:47 PM,card,28.9,Americano
+2024-03-12,04:15 PM,card,28.9,Americano
+2024-03-13,11:06 AM,card,38.7,Hot Chocolate
+2024-03-13,11:48 AM,card,28.9,Americano
+2024-03-13,12:18 PM,card,28.9,Americano
+2024-03-13,12:19 PM,card,28.9,Americano
+2024-03-13,12:34 PM,cash,25.0,Espresso
+2024-03-13,02:26 PM,card,33.8,Americano with Milk
+2024-03-13,03:40 PM,card,24.0,Espresso
+2024-03-13,03:41 PM,card,24.0,Espresso
+2024-03-13,04:47 PM,card,24.0,Espresso
+2024-03-14,10:02 AM,cash,40.0,Latte
+2024-03-14,10:28 AM,card,38.7,Latte
+2024-03-14,10:29 AM,card,38.7,Hot Chocolate
+2024-03-14,01:27 PM,card,28.9,Cortado
+2024-03-14,01:28 PM,card,28.9,Americano
+2024-03-14,01:51 PM,card,33.8,Americano with Milk
+2024-03-14,01:52 PM,card,24.0,Espresso
+2024-03-14,03:20 PM,card,38.7,Latte
+2024-03-14,04:04 PM,card,33.8,Americano with Milk
+2024-03-14,04:54 PM,card,24.0,Espresso
+2024-03-14,06:58 PM,card,38.7,Hot Chocolate
+2024-03-14,07:00 PM,card,28.9,Cortado
+2024-03-15,10:02 AM,cash,40.0,Latte
+2024-03-15,10:53 AM,card,38.7,Hot Chocolate
+2024-03-15,06:19 PM,card,28.9,Americano
+2024-03-16,12:06 PM,card,33.8,Americano with Milk
+2024-03-16,12:07 PM,card,28.9,Americano
+2024-03-16,03:58 PM,card,28.9,Cortado
+2024-03-16,04:03 PM,card,28.9,Cortado
+2024-03-16,04:04 PM,card,28.9,Cortado
+2024-03-16,05:58 PM,card,33.8,Americano with Milk
+2024-03-17,10:10 AM,cash,40.0,Latte
+2024-03-17,12:55 PM,card,28.9,Cortado
+2024-03-18,11:17 AM,card,28.9,Cortado
+2024-03-18,03:31 PM,card,28.9,Americano
+2024-03-18,03:32 PM,card,28.9,Americano
+2024-03-18,03:33 PM,card,28.9,Americano
+2024-03-19,10:20 AM,cash,30.0,Cortado
+2024-03-19,02:02 PM,card,38.7,Latte
+2024-03-19,02:03 PM,card,38.7,Latte
+2024-03-19,03:04 PM,card,38.7,Hot Chocolate
+2024-03-19,04:53 PM,card,33.8,Americano with Milk
+2024-03-19,07:26 PM,cash,40.0,Hot Chocolate
+2024-03-20,11:41 AM,card,28.9,Cortado
+2024-03-20,12:21 PM,cash,40.0,Latte
+2024-03-20,12:30 PM,card,28.9,Cortado
+2024-03-20,01:16 PM,card,38.7,Cappuccino
+2024-03-20,04:42 PM,card,38.7,Cocoa
+2024-03-20,05:50 PM,card,38.7,Latte
+2024-03-21,10:18 AM,cash,40.0,Cappuccino
+2024-03-21,12:25 PM,card,28.9,Cortado
+2024-03-21,12:26 PM,card,38.7,Cappuccino
+2024-03-21,05:21 PM,cash,30.0,Americano
+2024-03-21,05:22 PM,card,28.9,Cortado
+2024-03-21,07:20 PM,card,38.7,Latte
+2024-03-22,10:35 AM,card,33.8,Americano with Milk
+2024-03-22,01:29 PM,card,33.8,Americano with Milk
+2024-03-22,04:15 PM,cash,40.0,Cappuccino
+2024-03-22,05:17 PM,card,28.9,Americano
+2024-03-22,05:17 PM,card,24.0,Espresso
+2024-03-22,05:20 PM,card,28.9,Americano
+2024-03-23,10:43 AM,card,38.7,Latte
+2024-03-23,10:45 AM,card,33.8,Americano with Milk
+2024-03-23,01:10 PM,card,38.7,Cappuccino
+2024-03-23,01:11 PM,card,38.7,Cocoa
+2024-03-23,02:44 PM,card,33.8,Americano with Milk
+2024-03-23,03:47 PM,card,38.7,Latte
+2024-03-23,03:49 PM,card,33.8,Americano with Milk
+2024-03-23,04:00 PM,card,28.9,Cortado
+2024-03-24,10:03 AM,cash,40.0,Latte
+2024-03-24,06:45 PM,card,38.7,Latte
+2024-03-25,10:31 AM,card,38.7,Latte
+2024-03-25,11:16 AM,cash,35.0,Americano with Milk
+2024-03-25,02:27 PM,card,38.7,Latte
+2024-03-25,02:29 PM,card,38.7,Latte
+2024-03-25,06:37 PM,card,33.8,Americano with Milk
+2024-03-25,07:34 PM,card,38.7,Cappuccino
+2024-03-26,10:35 AM,card,38.7,Cocoa
+2024-03-26,10:36 AM,card,38.7,Latte
+2024-03-26,10:42 AM,card,38.7,Latte
+2024-03-26,11:11 AM,card,28.9,Cortado
+2024-03-26,01:35 PM,card,28.9,Americano
+2024-03-26,01:36 PM,card,28.9,Cortado
+2024-03-26,01:37 PM,card,28.9,Cortado
+2024-03-26,01:57 PM,card,28.9,Americano
+2024-03-26,03:48 PM,card,38.7,Latte
+2024-03-26,06:33 PM,card,38.7,Latte
+2024-03-26,06:34 PM,card,38.7,Hot Chocolate
+2024-03-27,11:04 AM,card,28.9,Cortado
+2024-03-27,11:05 AM,card,33.8,Americano with Milk
+2024-03-27,12:57 PM,card,33.8,Americano with Milk
+2024-03-27,01:35 PM,card,38.7,Hot Chocolate
+2024-03-27,02:22 PM,card,38.7,Cappuccino
+2024-03-27,02:23 PM,card,28.9,Americano
+2024-03-27,06:30 PM,card,28.9,Cortado
+2024-03-27,07:31 PM,cash,40.0,Latte
+2024-03-28,02:24 PM,card,28.9,Cortado
+2024-03-28,05:24 PM,card,28.9,Cortado
+2024-03-28,05:27 PM,card,28.9,Americano
+2024-03-28,05:32 PM,card,38.7,Latte
+2024-03-29,10:56 AM,card,38.7,Latte
+2024-03-29,12:34 PM,card,38.7,Cappuccino
+2024-03-29,12:41 PM,card,38.7,Cappuccino
+2024-03-29,01:22 PM,cash,40.0,Cappuccino
+2024-03-30,11:59 AM,card,38.7,Latte
+2024-03-30,01:49 PM,cash,40.0,Cappuccino
+2024-03-30,04:12 PM,card,38.7,Latte
+2024-03-30,04:36 PM,card,38.7,Latte
+2024-03-30,04:37 PM,card,33.8,Americano with Milk
+2024-03-31,10:40 AM,card,38.7,Cappuccino
+2024-03-31,07:36 PM,cash,30.0,Americano
