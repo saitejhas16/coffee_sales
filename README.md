@@ -9,7 +9,7 @@ This project performs data analysis on a dataset of coffee sales over six months
 The notebook includes the following sections:
 
 - **Introduction**
-  - Providing an overview of the analysis and its objectives.
+  - Providing an overview of the analysis and its objectives in detail.
 
 - **Importing Libraries**
   - Importing necessary Python libraries such as `pandas` and `matplotlib`.
